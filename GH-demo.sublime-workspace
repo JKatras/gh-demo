@@ -55,18 +55,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<title>GitHub Demo</title>\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/main.css\">\n\t</head>\n</html>",
-			"file": "index.html",
-			"file_size": 17,
-			"file_write_time": 131727697626757675,
-			"settings":
-			{
-				"buffer_size": 163,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -98,12 +86,12 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/jak4yf/Documents/GitHub/Demo"
-	],
 	"file_history":
 	[
+		"/C/Users/jak4yf/Documents/GitHub/gh-demo/css/main.css",
+		"/C/Users/jak4yf/Documents/GitHub/gh-demo/index.html",
+		"/C/Users/jak4yf/Desktop/sites/fmhome-live/css/main.css",
+		"/Z/wwwroot/css/main.css",
 		"/C/Users/jak4yf/Desktop/sites/fmhome-test/index.html",
 		"/C/Users/jak4yf/Documents/GitHub/RQG/main.css",
 		"/Y/wwwroot/devjak/OUBO/Develop/index.html",
@@ -120,8 +108,7 @@
 		"/Y/wwwroot/devjak/styleguide-test/css/main.css",
 		"/Y/wwwroot/devjak/styleguide-test/index.html",
 		"/Y/wwwroot/devjak/styleguide-test/colors.html",
-		"/Z/wwwroot/js/vue/outage-subs.js",
-		"/C/Users/jak4yf/Desktop/sites/fmhome-live/css/main.css"
+		"/Z/wwwroot/js/vue/outage-subs.js"
 	],
 	"find":
 	{
@@ -140,6 +127,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"intranet",
 			"svg",
 			".apprentice-spotlight",
 			"row",
@@ -163,38 +151,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 163,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								146,
-								146
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
